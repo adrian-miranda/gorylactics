@@ -1,10 +1,11 @@
 ## Hola soy Adrian. 👋
 
 <!-- ### Proceso actual: Remodelacion... 👨🏻‍💻 -->  
-Soy una persona proactiva, perseverante y en búsqueda constante de nuevos desafíos. Con capacidad de liderazgo, sin miedo a los cambios y con ganas de cada día aprender más.
+<p>Soy una persona proactiva, perseverante y en búsqueda constante de nuevos desafíos. Con capacidad de liderazgo, sin miedo a los cambios y con ganas de cada día aprender más.
 Habilidad sociabilizando lo cual me permite crear buenas relaciones lo que se traduce en la facilidad al trabajar en equipo.
 Enfocado en cumplir con excelentes resultados en cuanto a los objetivos a cumplir.
-Cuento con mucha experiencia en investigación teórica y de campo lo cual ayuda a cumplir el punto anterior.
+Cuento con mucha experiencia en investigación teórica y de campo lo cual ayuda a cumplir el punto anterior.</p>
+
 ### Lenguajes y herramientas a la fecha:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
