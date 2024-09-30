@@ -1,7 +1,7 @@
 ## Hola soy Adrian. 👋
 
 <!-- ### Proceso actual: Remodelacion... 👨🏻‍💻 -->  
-<p>Soy Analista Programador titulado de Inacap Santiago y graduado del BootCamp FullStack Python de Talento Digital, donde logré cumplir con los objetivos establecidos. Tengo experiencia en la implementación de bases de datos, desarrollo de lógica para el backend y diseño de interfaces frontend con un enfoque mobile-first. Me caracterizo por ser proactivo, perseverante y adaptable, con sólidas habilidades para el trabajo en equipo. Mi enfoque orientado a resultados, basado en una investigación rigurosa, me impulsa a alcanzar consistentemente los objetivos planteados</p>
+<p style="text-align: justify;">Soy Analista Programador titulado de Inacap Santiago y graduado del BootCamp FullStack Python de Talento Digital, donde logré cumplir con los objetivos establecidos. Tengo experiencia en la implementación de bases de datos, desarrollo de lógica para el backend y diseño de interfaces frontend con un enfoque mobile-first. Me caracterizo por ser proactivo, perseverante y adaptable, con sólidas habilidades para el trabajo en equipo. Mi enfoque orientado a resultados, basado en una investigación rigurosa, me impulsa a alcanzar consistentemente los objetivos planteados</p>
 
 ### Lenguajes y herramientas a la fecha:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
